@@ -3156,6 +3156,11 @@ a {
   margin-right: 20px;
 }
 
+.section-2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 @media screen and (max-width: 991px) {
   .footer {
     padding-left: 20px;
